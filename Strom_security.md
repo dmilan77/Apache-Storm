@@ -51,6 +51,7 @@ Server {
 ```
 
 `vi /opt/myapps/zookeeper-3.4.6/conf/java.env`
+
 `export JVMFLAGS="-Djava.security.auth.login.config=/opt/myapps/zookeeper-3.4.6/conf/jaas.conf"`
 
 
