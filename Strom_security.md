@@ -113,7 +113,7 @@ ui.https.need.client.auth: false
 
 ## Storm jaas.conf
 
-``vi /opt/myapps/apache-storm-1.1.1/conf/jaas.conf`
+`vi /opt/myapps/apache-storm-1.1.1/conf/jaas.conf`
 
 ```yaml
 StormServer {
